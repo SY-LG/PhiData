@@ -1,0 +1,17 @@
++x1LBY/IXJvaHOZNybeFBP6ARcekw4PPz1G6tVYwSMw= +/TQ+apDhOo=
+1So2ylZIyUdEGmWeKfWGXd0DvwiFPNyTloxSV3L4EP6Y3G/05pYaAw== xq9bX8oShzg=
+1ZfQlyYmOQqfU8EGS8kSf/NgYFgWdxMEwpIDz0+hJ8rjXygR49OH+oqH5TGHz8PxyJ2eShY20nE= anW8ruSTNgo=
+6eY5aQu+Z94MHMel7v2/+YXyjylXSjOErfh4bJIeqN93XHdqmn0gBWOo/p9jiCVh xq9bX8oShzg=
+FitokWWxJOY4/3YQU3BrURRY8ucYaGDLTrkSK3bs3qA= xq9bX8oShzg=
+FitokWWxJOY4/3YQU3BrUSmddYqa92hes1cHOdiDoO0= xq9bX8oShzg=
+FitokWWxJOb+6W6IxziZxHFtJeVjxoHc xq9bX8oShzg=
+NeedUpdateSongsData 5
+Screenmanager Fullscreen mode -1
+Screenmanager Resolution Height 738
+Screenmanager Resolution Width 1312
+__UNITY_PLAYERPREFS_VERSION__ 1
+h41zg5ZJW07OsfCgB/5TFg== e9avXNovmHl5peT8je8zRB3sylbAxAl/0qOucVYhMcdIxJersO7zFqrUfBwpdY1P3Yvc8Pt8RXMfLxeirJNNID0r1V5YWZK7Q8rQOG7c+OA=
+setDspBuffer 1
+unity.cloud_userid 87c4d91ddde02380aad82f6c2e94f4a6
+unity.player_session_count 1
+unity.player_sessionid 5609677224353347867
